@@ -1,0 +1,6 @@
+# Your real scan terms may be sensitive — keep the live config local
+scan-terms.conf
+
+# Assistant workspace state
+__pycache__/
+*.pyc
